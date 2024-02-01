@@ -29,3 +29,15 @@ git diff
 ```sh
 git branch
 ```
+### Создание новой ветки
+```sh
+git brnach <name>
+```
+### Удаление ветки 
+```sh 
+git branch -d <name>
+```
+### Показ веток графиком
+```sh
+git log --graph
+```
