@@ -25,6 +25,7 @@ git checkout <name>
 git diff
 ```
 ### Отображение всех веток 
+Отображение всех веток 
 ```sh
 git branch
 ```
