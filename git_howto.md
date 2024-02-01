@@ -18,9 +18,13 @@ git log --oneline - короче
 ```
 ### Переключение между сохранениями
 ```sh
-git checkout
+git checkout <name>
 ```
 ### Просмотр изменений
 ```sh
 git diff
+```
+### Отображение всех веток 
+```sh
+git branch
 ```
